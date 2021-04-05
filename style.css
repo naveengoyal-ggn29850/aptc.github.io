@@ -1,0 +1,32 @@
+.container{
+    width:1180px;
+    margin:0 auto;
+}
+
+.hero-image{
+    font-size:24px;
+    text-align: center;
+    padding:20px;
+    background-color:azure;
+}
+
+.hero-image h1{
+    font-size:32px;
+    color:blue;
+}
+
+.textblock{
+    margin-top:30px;
+    padding:20px;
+    background-color:azure;
+}
+
+.copyright{
+    margin-top:30px;
+    padding:20px;
+    background-color:black;
+}
+
+.copyright p{
+    color:white;
+}
